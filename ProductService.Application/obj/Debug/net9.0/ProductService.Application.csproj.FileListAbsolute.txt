@@ -1,0 +1,17 @@
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/bin/Debug/net9.0/ProductService.Application.deps.json
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/bin/Debug/net9.0/ProductService.Application.dll
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/bin/Debug/net9.0/ProductService.Application.pdb
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/bin/Debug/net9.0/ProductService.Domain.dll
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/bin/Debug/net9.0/ProductService.Infrastructure.dll
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/bin/Debug/net9.0/ProductService.Domain.pdb
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/bin/Debug/net9.0/ProductService.Infrastructure.pdb
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/obj/Debug/net9.0/ProductService.Application.csproj.AssemblyReference.cache
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/obj/Debug/net9.0/ProductService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/obj/Debug/net9.0/ProductService.Application.AssemblyInfoInputs.cache
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/obj/Debug/net9.0/ProductService.Application.AssemblyInfo.cs
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/obj/Debug/net9.0/ProductService.Application.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/obj/Debug/net9.0/ProductS.46A6959E.Up2Date
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/obj/Debug/net9.0/ProductService.Application.dll
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/obj/Debug/net9.0/refint/ProductService.Application.dll
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/obj/Debug/net9.0/ProductService.Application.pdb
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Application/obj/Debug/net9.0/ref/ProductService.Application.dll

@@ -1,0 +1,11 @@
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Domain/bin/Debug/net9.0/ProductService.Domain.deps.json
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Domain/bin/Debug/net9.0/ProductService.Domain.dll
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Domain/bin/Debug/net9.0/ProductService.Domain.pdb
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Domain/obj/Debug/net9.0/ProductService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Domain/obj/Debug/net9.0/ProductService.Domain.AssemblyInfoInputs.cache
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Domain/obj/Debug/net9.0/ProductService.Domain.AssemblyInfo.cs
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Domain/obj/Debug/net9.0/ProductService.Domain.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Domain/obj/Debug/net9.0/ProductService.Domain.dll
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Domain/obj/Debug/net9.0/refint/ProductService.Domain.dll
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Domain/obj/Debug/net9.0/ProductService.Domain.pdb
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Domain/obj/Debug/net9.0/ref/ProductService.Domain.dll

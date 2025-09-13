@@ -1,0 +1,15 @@
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/bin/Debug/net9.0/ProductService.Infrastructure.deps.json
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/bin/Debug/net9.0/ProductService.Infrastructure.dll
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/bin/Debug/net9.0/ProductService.Infrastructure.pdb
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/bin/Debug/net9.0/ProductService.Domain.dll
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/bin/Debug/net9.0/ProductService.Domain.pdb
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/obj/Debug/net9.0/ProductService.Infrastructure.csproj.AssemblyReference.cache
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/obj/Debug/net9.0/ProductService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/obj/Debug/net9.0/ProductService.Infrastructure.AssemblyInfoInputs.cache
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/obj/Debug/net9.0/ProductService.Infrastructure.AssemblyInfo.cs
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/obj/Debug/net9.0/ProductService.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/obj/Debug/net9.0/ProductS.4D387919.Up2Date
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/obj/Debug/net9.0/ProductService.Infrastructure.dll
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/obj/Debug/net9.0/refint/ProductService.Infrastructure.dll
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/obj/Debug/net9.0/ProductService.Infrastructure.pdb
+/Users/mac/Documents/Personal/ProductServiceApp/ProductService.Infrastructure/obj/Debug/net9.0/ref/ProductService.Infrastructure.dll
